@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7a1b0815-89f6-49fe-859d-35d4dcdcac09</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>[Titolo]</dc:title>
+    <meta content="0.9.9" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2019-01-13</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="foto-000.png" href="Images/foto-000.png" media-type="image/png"/>
+    <item id="index.html" href="Text/index.html" media-type="application/xhtml+xml"/>
+    <item id="indice.html" href="Text/indice.html" media-type="application/xhtml+xml"/>
+    <item id="metadata.opf" href="Misc/metadata.opf" media-type="application/oebps-package+xml"/>
+    <item id="mimetype" href="Misc/mimetype" media-type="text/plain"/>
+    <item id="pag1.html" href="Text/pag1.html" media-type="application/xhtml+xml"/>
+    <item id="foto-001.jpg" href="Images/foto-001.jpg" media-type="image/jpeg"/>
+    <item id="foto-002.jpg" href="Images/foto-002.jpg" media-type="image/jpeg"/>
+    <item id="pag2.html" href="Text/pag2.html" media-type="application/xhtml+xml"/>
+    <item id="foto-003.jpg" href="Images/foto-003.jpg" media-type="image/jpeg"/>
+    <item id="pag3.html" href="Text/pag3.html" media-type="application/xhtml+xml"/>
+    <item id="foto-006.jpg" href="Images/foto-006.jpg" media-type="image/jpeg"/>
+    <item id="foto-007.jpg" href="Images/foto-007.jpg" media-type="image/jpeg"/>
+    <item id="pag5.html" href="Text/pag5.html" media-type="application/xhtml+xml"/>
+    <item id="foto-008.jpg" href="Images/foto-008.jpg" media-type="image/jpeg"/>
+    <item id="foto-009.jpg" href="Images/foto-009.jpg" media-type="image/jpeg"/>
+    <item id="pag6.html" href="Text/pag6.html" media-type="application/xhtml+xml"/>
+    <item id="foto-010.jpg" href="Images/foto-010.jpg" media-type="image/jpeg"/>
+    <item id="pag7.html" href="Text/pag7.html" media-type="application/xhtml+xml"/>
+    <item id="foto-011.jpg" href="Images/foto-011.jpg" media-type="image/jpeg"/>
+    <item id="foto-013.jpg" href="Images/foto-013.jpg" media-type="image/jpeg"/>
+    <item id="foto-012.jpg" href="Images/foto-012.jpg" media-type="image/jpeg"/>
+    <item id="pag8.html" href="Text/pag8.html" media-type="application/xhtml+xml"/>
+    <item id="foto-015.jpg" href="Images/foto-015.jpg" media-type="image/jpeg"/>
+    <item id="foto-014.jpg" href="Images/foto-014.jpg" media-type="image/jpeg"/>
+    <item id="pag9.html" href="Text/pag9.html" media-type="application/xhtml+xml"/>
+    <item id="foto-017.jpg" href="Images/foto-017.jpg" media-type="image/jpeg"/>
+    <item id="foto-016.jpg" href="Images/foto-016.jpg" media-type="image/jpeg"/>
+    <item id="pag10.html" href="Text/pag10.html" media-type="application/xhtml+xml"/>
+    <item id="foto-018.jpg" href="Images/foto-018.jpg" media-type="image/jpeg"/>
+    <item id="foto-019.jpg" href="Images/foto-019.jpg" media-type="image/jpeg"/>
+    <item id="foto-020.jpg" href="Images/foto-020.jpg" media-type="image/jpeg"/>
+    <item id="pag11.html" href="Text/pag11.html" media-type="application/xhtml+xml"/>
+    <item id="foto-021.jpg" href="Images/foto-021.jpg" media-type="image/jpeg"/>
+    <item id="foto-022.jpg" href="Images/foto-022.jpg" media-type="image/jpeg"/>
+    <item id="pag12.html" href="Text/pag12.html" media-type="application/xhtml+xml"/>
+    <item id="foto-026.jpg" href="Images/foto-026.jpg" media-type="image/jpeg"/>
+    <item id="foto-027.jpg" href="Images/foto-027.jpg" media-type="image/jpeg"/>
+    <item id="foto-028.jpg" href="Images/foto-028.jpg" media-type="image/jpeg"/>
+    <item id="foto-083.jpg" href="Images/foto-083.jpg" media-type="image/jpeg"/>
+    <item id="pag13.html" href="Text/pag13.html" media-type="application/xhtml+xml"/>
+    <item id="foto-031.jpg" href="Images/foto-031.jpg" media-type="image/jpeg"/>
+    <item id="foto-029.jpg" href="Images/foto-029.jpg" media-type="image/jpeg"/>
+    <item id="foto-030.jpg" href="Images/foto-030.jpg" media-type="image/jpeg"/>
+    <item id="pag14.html" href="Text/pag14.html" media-type="application/xhtml+xml"/>
+    <item id="foto-032.jpg" href="Images/foto-032.jpg" media-type="image/jpeg"/>
+    <item id="foto-033.jpg" href="Images/foto-033.jpg" media-type="image/jpeg"/>
+    <item id="foto-034.jpg" href="Images/foto-034.jpg" media-type="image/jpeg"/>
+    <item id="foto-035.jpg" href="Images/foto-035.jpg" media-type="image/jpeg"/>
+    <item id="foto-036.jpg" href="Images/foto-036.jpg" media-type="image/jpeg"/>
+    <item id="pag15.html" href="Text/pag15.html" media-type="application/xhtml+xml"/>
+    <item id="foto-037.jpg" href="Images/foto-037.jpg" media-type="image/jpeg"/>
+    <item id="foto-038.jpg" href="Images/foto-038.jpg" media-type="image/jpeg"/>
+    <item id="foto-039.jpg" href="Images/foto-039.jpg" media-type="image/jpeg"/>
+    <item id="foto-040.jpg" href="Images/foto-040.jpg" media-type="image/jpeg"/>
+    <item id="pag16.html" href="Text/pag16.html" media-type="application/xhtml+xml"/>
+    <item id="foto-042.jpg" href="Images/foto-042.jpg" media-type="image/jpeg"/>
+    <item id="foto-041.jpg" href="Images/foto-041.jpg" media-type="image/jpeg"/>
+    <item id="pag17.html" href="Text/pag17.html" media-type="application/xhtml+xml"/>
+    <item id="foto-043.jpg" href="Images/foto-043.jpg" media-type="image/jpeg"/>
+    <item id="pag18.html" href="Text/pag18.html" media-type="application/xhtml+xml"/>
+    <item id="foto-044.jpg" href="Images/foto-044.jpg" media-type="image/jpeg"/>
+    <item id="pag19.html" href="Text/pag19.html" media-type="application/xhtml+xml"/>
+    <item id="foto-045.jpg" href="Images/foto-045.jpg" media-type="image/jpeg"/>
+    <item id="foto-046.jpg" href="Images/foto-046.jpg" media-type="image/jpeg"/>
+    <item id="foto-048.jpg" href="Images/foto-048.jpg" media-type="image/jpeg"/>
+    <item id="foto-047.jpg" href="Images/foto-047.jpg" media-type="image/jpeg"/>
+    <item id="pag20.html" href="Text/pag20.html" media-type="application/xhtml+xml"/>
+    <item id="foto-049.jpg" href="Images/foto-049.jpg" media-type="image/jpeg"/>
+    <item id="foto-050.jpg" href="Images/foto-050.jpg" media-type="image/jpeg"/>
+    <item id="foto-051.jpg" href="Images/foto-051.jpg" media-type="image/jpeg"/>
+    <item id="pag21.html" href="Text/pag21.html" media-type="application/xhtml+xml"/>
+    <item id="foto-052.jpg" href="Images/foto-052.jpg" media-type="image/jpeg"/>
+    <item id="foto-053.jpg" href="Images/foto-053.jpg" media-type="image/jpeg"/>
+    <item id="foto-054.jpg" href="Images/foto-054.jpg" media-type="image/jpeg"/>
+    <item id="pag22.html" href="Text/pag22.html" media-type="application/xhtml+xml"/>
+    <item id="foto-055b.jpg" href="Images/foto-055b.jpg" media-type="image/jpeg"/>
+    <item id="foto-055.jpg" href="Images/foto-055.jpg" media-type="image/jpeg"/>
+    <item id="foto-056.jpg" href="Images/foto-056.jpg" media-type="image/jpeg"/>
+    <item id="pag23.html" href="Text/pag23.html" media-type="application/xhtml+xml"/>
+    <item id="foto-057b.jpg" href="Images/foto-057b.jpg" media-type="image/jpeg"/>
+    <item id="foto-060.jpg" href="Images/foto-060.jpg" media-type="image/jpeg"/>
+    <item id="foto-059.jpg" href="Images/foto-059.jpg" media-type="image/jpeg"/>
+    <item id="foto-058.jpg" href="Images/foto-058.jpg" media-type="image/jpeg"/>
+    <item id="freccia-rossa-sx.png" href="Images/freccia-rossa-sx.png" media-type="image/png"/>
+    <item id="freccia-rossa-dx.png" href="Images/freccia-rossa-dx.png" media-type="image/png"/>
+    <item id="pag24.html" href="Text/pag24.html" media-type="application/xhtml+xml"/>
+    <item id="foto-061.jpg" href="Images/foto-061.jpg" media-type="image/jpeg"/>
+    <item id="foto-062.jpg" href="Images/foto-062.jpg" media-type="image/jpeg"/>
+    <item id="foto-063.jpg" href="Images/foto-063.jpg" media-type="image/jpeg"/>
+    <item id="foto-064.jpg" href="Images/foto-064.jpg" media-type="image/jpeg"/>
+    <item id="pag25.html" href="Text/pag25.html" media-type="application/xhtml+xml"/>
+    <item id="foto-065.jpg" href="Images/foto-065.jpg" media-type="image/jpeg"/>
+    <item id="foto-066.jpg" href="Images/foto-066.jpg" media-type="image/jpeg"/>
+    <item id="foto-067.jpg" href="Images/foto-067.jpg" media-type="image/jpeg"/>
+    <item id="pag26.html" href="Text/pag26.html" media-type="application/xhtml+xml"/>
+    <item id="foto-068.jpg" href="Images/foto-068.jpg" media-type="image/jpeg"/>
+    <item id="foto-069.jpg" href="Images/foto-069.jpg" media-type="image/jpeg"/>
+    <item id="foto-071.jpg" href="Images/foto-071.jpg" media-type="image/jpeg"/>
+    <item id="foto-070.jpg" href="Images/foto-070.jpg" media-type="image/jpeg"/>
+    <item id="pag27.html" href="Text/pag27.html" media-type="application/xhtml+xml"/>
+    <item id="foto-075b.jpg" href="Images/foto-075b.jpg" media-type="image/jpeg"/>
+    <item id="foto-075d.jpg" href="Images/foto-075d.jpg" media-type="image/jpeg"/>
+    <item id="foto-075c.jpg" href="Images/foto-075c.jpg" media-type="image/jpeg"/>
+    <item id="pag28.html" href="Text/pag28.html" media-type="application/xhtml+xml"/>
+    <item id="foto-094.jpg" href="Images/foto-094.jpg" media-type="image/jpeg"/>
+    <item id="foto-095.jpg" href="Images/foto-095.jpg" media-type="image/jpeg"/>
+    <item id="foto-089.jpg" href="Images/foto-089.jpg" media-type="image/jpeg"/>
+    <item id="foto-096.jpg" href="Images/foto-096.jpg" media-type="image/jpeg"/>
+    <item id="pag29.html" href="Text/pag29.html" media-type="application/xhtml+xml"/>
+    <item id="foto-103.jpg" href="Images/foto-103.jpg" media-type="image/jpeg"/>
+    <item id="foto-106.jpg" href="Images/foto-106.jpg" media-type="image/jpeg"/>
+    <item id="foto-104.jpg" href="Images/foto-104.jpg" media-type="image/jpeg"/>
+    <item id="foto-105.jpg" href="Images/foto-105.jpg" media-type="image/jpeg"/>
+    <item id="pag30.html" href="Text/pag30.html" media-type="application/xhtml+xml"/>
+    <item id="foto-108.jpg" href="Images/foto-108.jpg" media-type="image/jpeg"/>
+    <item id="foto-109.jpg" href="Images/foto-109.jpg" media-type="image/jpeg"/>
+    <item id="foto-111.jpg" href="Images/foto-111.jpg" media-type="image/jpeg"/>
+    <item id="foto-110.jpg" href="Images/foto-110.jpg" media-type="image/jpeg"/>
+    <item id="foto-113.jpg" href="Images/foto-113.jpg" media-type="image/jpeg"/>
+    <item id="pag31.html" href="Text/pag31.html" media-type="application/xhtml+xml"/>
+    <item id="foto-116.jpg" href="Images/foto-116.jpg" media-type="image/jpeg"/>
+    <item id="foto-114.jpg" href="Images/foto-114.jpg" media-type="image/jpeg"/>
+    <item id="foto-112.jpg" href="Images/foto-112.jpg" media-type="image/jpeg"/>
+    <item id="pag32.html" href="Text/pag32.html" media-type="application/xhtml+xml"/>
+    <item id="foto-119.jpg" href="Images/foto-119.jpg" media-type="image/jpeg"/>
+    <item id="foto-118.jpg" href="Images/foto-118.jpg" media-type="image/jpeg"/>
+    <item id="foto-117.jpg" href="Images/foto-117.jpg" media-type="image/jpeg"/>
+    <item id="pag33.html" href="Text/pag33.html" media-type="application/xhtml+xml"/>
+    <item id="foto-120.jpg" href="Images/foto-120.jpg" media-type="image/jpeg"/>
+    <item id="foto-121.jpg" href="Images/foto-121.jpg" media-type="image/jpeg"/>
+    <item id="foto-122.jpg" href="Images/foto-122.jpg" media-type="image/jpeg"/>
+    <item id="foto-123.jpg" href="Images/foto-123.jpg" media-type="image/jpeg"/>
+    <item id="foto-124.jpg" href="Images/foto-124.jpg" media-type="image/jpeg"/>
+    <item id="foto-125.jpg" href="Images/foto-125.jpg" media-type="image/jpeg"/>
+    <item id="foto-126.jpg" href="Images/foto-126.jpg" media-type="image/jpeg"/>
+    <item id="foto-127.jpg" href="Images/foto-127.jpg" media-type="image/jpeg"/>
+    <item id="foto-128.jpg" href="Images/foto-128.jpg" media-type="image/jpeg"/>
+    <item id="pag34.html" href="Text/pag34.html" media-type="application/xhtml+xml"/>
+    <item id="foto-140.jpg" href="Images/foto-140.jpg" media-type="image/jpeg"/>
+    <item id="foto-141.jpg" href="Images/foto-141.jpg" media-type="image/jpeg"/>
+    <item id="pag35.html" href="Text/pag35.html" media-type="application/xhtml+xml"/>
+    <item id="foto-138.jpg" href="Images/foto-138.jpg" media-type="image/jpeg"/>
+    <item id="foto-136.jpg" href="Images/foto-136.jpg" media-type="image/jpeg"/>
+    <item id="foto-142.jpg" href="Images/foto-142.jpg" media-type="image/jpeg"/>
+    <item id="pag36.html" href="Text/pag36.html" media-type="application/xhtml+xml"/>
+    <item id="foto-143.jpg" href="Images/foto-143.jpg" media-type="image/jpeg"/>
+    <item id="foto-145.jpg" href="Images/foto-145.jpg" media-type="image/jpeg"/>
+    <item id="pag37.html" href="Text/pag37.html" media-type="application/xhtml+xml"/>
+    <item id="foto-147.jpg" href="Images/foto-147.jpg" media-type="image/jpeg"/>
+    <item id="foto-146.jpg" href="Images/foto-146.jpg" media-type="image/jpeg"/>
+    <item id="foto-148.jpg" href="Images/foto-148.jpg" media-type="image/jpeg"/>
+    <item id="pag38.html" href="Text/pag38.html" media-type="application/xhtml+xml"/>
+    <item id="foto-150.jpg" href="Images/foto-150.jpg" media-type="image/jpeg"/>
+    <item id="pag39.html" href="Text/pag39.html" media-type="application/xhtml+xml"/>
+    <item id="foto-151.jpg" href="Images/foto-151.jpg" media-type="image/jpeg"/>
+    <item id="foto-155.jpg" href="Images/foto-155.jpg" media-type="image/jpeg"/>
+    <item id="foto-156.jpg" href="Images/foto-156.jpg" media-type="image/jpeg"/>
+    <item id="foto-154.jpg" href="Images/foto-154.jpg" media-type="image/jpeg"/>
+    <item id="foto-153.jpg" href="Images/foto-153.jpg" media-type="image/jpeg"/>
+    <item id="pag40.html" href="Text/pag40.html" media-type="application/xhtml+xml"/>
+    <item id="foto-157.jpg" href="Images/foto-157.jpg" media-type="image/jpeg"/>
+    <item id="foto-158.jpg" href="Images/foto-158.jpg" media-type="image/jpeg"/>
+    <item id="foto-159.jpg" href="Images/foto-159.jpg" media-type="image/jpeg"/>
+    <item id="pag41.html" href="Text/pag41.html" media-type="application/xhtml+xml"/>
+    <item id="foto-160.jpg" href="Images/foto-160.jpg" media-type="image/jpeg"/>
+    <item id="foto-163.jpg" href="Images/foto-163.jpg" media-type="image/jpeg"/>
+    <item id="pag42.html" href="Text/pag42.html" media-type="application/xhtml+xml"/>
+    <item id="foto-164.jpg" href="Images/foto-164.jpg" media-type="image/jpeg"/>
+    <item id="foto-161.jpg" href="Images/foto-161.jpg" media-type="image/jpeg"/>
+    <item id="foto-165.jpg" href="Images/foto-165.jpg" media-type="image/jpeg"/>
+    <item id="pag43.html" href="Text/pag43.html" media-type="application/xhtml+xml"/>
+    <item id="foto-166.jpg" href="Images/foto-166.jpg" media-type="image/jpeg"/>
+    <item id="foto-167.jpg" href="Images/foto-167.jpg" media-type="image/jpeg"/>
+    <item id="foto-168.jpg" href="Images/foto-168.jpg" media-type="image/jpeg"/>
+    <item id="pag44.html" href="Text/pag44.html" media-type="application/xhtml+xml"/>
+    <item id="foto-172.jpg" href="Images/foto-172.jpg" media-type="image/jpeg"/>
+    <item id="foto-173.jpg" href="Images/foto-173.jpg" media-type="image/jpeg"/>
+    <item id="foto-169.jpg" href="Images/foto-169.jpg" media-type="image/jpeg"/>
+    <item id="foto-175.jpg" href="Images/foto-175.jpg" media-type="image/jpeg"/>
+    <item id="foto-174.jpg" href="Images/foto-174.jpg" media-type="image/jpeg"/>
+    <item id="pag45.html" href="Text/pag45.html" media-type="application/xhtml+xml"/>
+    <item id="foto-176.jpg" href="Images/foto-176.jpg" media-type="image/jpeg"/>
+    <item id="pag46.html" href="Text/pag46.html" media-type="application/xhtml+xml"/>
+    <item id="foto-179.jpg" href="Images/foto-179.jpg" media-type="image/jpeg"/>
+    <item id="foto-180.jpg" href="Images/foto-180.jpg" media-type="image/jpeg"/>
+    <item id="foto-178.jpg" href="Images/foto-178.jpg" media-type="image/jpeg"/>
+    <item id="foto-177.jpg" href="Images/foto-177.jpg" media-type="image/jpeg"/>
+    <item id="pag47.html" href="Text/pag47.html" media-type="application/xhtml+xml"/>
+    <item id="foto-181.jpg" href="Images/foto-181.jpg" media-type="image/jpeg"/>
+    <item id="pag48.html" href="Text/pag48.html" media-type="application/xhtml+xml"/>
+    <item id="foto-204.jpg" href="Images/foto-204.jpg" media-type="image/jpeg"/>
+    <item id="pag48a.html" href="Text/pag48a.html" media-type="application/xhtml+xml"/>
+    <item id="foto-193.jpg" href="Images/foto-193.jpg" media-type="image/jpeg"/>
+    <item id="foto-187.jpg" href="Images/foto-187.jpg" media-type="image/jpeg"/>
+    <item id="foto-192.jpg" href="Images/foto-192.jpg" media-type="image/jpeg"/>
+    <item id="foto-190.jpg" href="Images/foto-190.jpg" media-type="image/jpeg"/>
+    <item id="pag49.html" href="Text/pag49.html" media-type="application/xhtml+xml"/>
+    <item id="foto-197.jpg" href="Images/foto-197.jpg" media-type="image/jpeg"/>
+    <item id="foto-194.jpg" href="Images/foto-194.jpg" media-type="image/jpeg"/>
+    <item id="foto-198.jpg" href="Images/foto-198.jpg" media-type="image/jpeg"/>
+    <item id="foto-186.jpg" href="Images/foto-186.jpg" media-type="image/jpeg"/>
+    <item id="pag50.html" href="Text/pag50.html" media-type="application/xhtml+xml"/>
+    <item id="pag51.html" href="Text/pag51.html" media-type="application/xhtml+xml"/>
+    <item id="foto-205.jpg" href="Images/foto-205.jpg" media-type="image/jpeg"/>
+    <item id="pag52.html" href="Text/pag52.html" media-type="application/xhtml+xml"/>
+    <item id="foto-206.jpg" href="Images/foto-206.jpg" media-type="image/jpeg"/>
+    <item id="foto-207.jpg" href="Images/foto-207.jpg" media-type="image/jpeg"/>
+    <item id="foto-208.jpg" href="Images/foto-208.jpg" media-type="image/jpeg"/>
+    <item id="pag53.html" href="Text/pag53.html" media-type="application/xhtml+xml"/>
+    <item id="foto-210.jpg" href="Images/foto-210.jpg" media-type="image/jpeg"/>
+    <item id="foto-211.jpg" href="Images/foto-211.jpg" media-type="image/jpeg"/>
+    <item id="foto-209.jpg" href="Images/foto-209.jpg" media-type="image/jpeg"/>
+    <item id="pag54.html" href="Text/pag54.html" media-type="application/xhtml+xml"/>
+    <item id="foto-212.jpg" href="Images/foto-212.jpg" media-type="image/jpeg"/>
+    <item id="foto-213.jpg" href="Images/foto-213.jpg" media-type="image/jpeg"/>
+    <item id="foto-214.jpg" href="Images/foto-214.jpg" media-type="image/jpeg"/>
+    <item id="pag55.html" href="Text/pag55.html" media-type="application/xhtml+xml"/>
+    <item id="foto-217.jpg" href="Images/foto-217.jpg" media-type="image/jpeg"/>
+    <item id="foto-216.jpg" href="Images/foto-216.jpg" media-type="image/jpeg"/>
+    <item id="pag56.html" href="Text/pag56.html" media-type="application/xhtml+xml"/>
+    <item id="foto-218.jpg" href="Images/foto-218.jpg" media-type="image/jpeg"/>
+    <item id="foto-220.jpg" href="Images/foto-220.jpg" media-type="image/jpeg"/>
+    <item id="foto-221.jpg" href="Images/foto-221.jpg" media-type="image/jpeg"/>
+    <item id="foto-222.jpg" href="Images/foto-222.jpg" media-type="image/jpeg"/>
+    <item id="foto-223.jpg" href="Images/foto-223.jpg" media-type="image/jpeg"/>
+    <item id="pag57.html" href="Text/pag57.html" media-type="application/xhtml+xml"/>
+    <item id="foto-224.jpg" href="Images/foto-224.jpg" media-type="image/jpeg"/>
+    <item id="pag58.html" href="Text/pag58.html" media-type="application/xhtml+xml"/>
+    <item id="foto-225.jpg" href="Images/foto-225.jpg" media-type="image/jpeg"/>
+    <item id="foto-226.jpg" href="Images/foto-226.jpg" media-type="image/jpeg"/>
+    <item id="foto-227.jpg" href="Images/foto-227.jpg" media-type="image/jpeg"/>
+    <item id="pag59.html" href="Text/pag59.html" media-type="application/xhtml+xml"/>
+    <item id="foto-229.jpg" href="Images/foto-229.jpg" media-type="image/jpeg"/>
+    <item id="foto-230.jpg" href="Images/foto-230.jpg" media-type="image/jpeg"/>
+    <item id="foto-231.jpg" href="Images/foto-231.jpg" media-type="image/jpeg"/>
+    <item id="foto-232.jpg" href="Images/foto-232.jpg" media-type="image/jpeg"/>
+    <item id="foto-233.jpg" href="Images/foto-233.jpg" media-type="image/jpeg"/>
+    <item id="foto-234.jpg" href="Images/foto-234.jpg" media-type="image/jpeg"/>
+    <item id="pag60.html" href="Text/pag60.html" media-type="application/xhtml+xml"/>
+    <item id="locandina-pime.jpg" href="Images/locandina-pime.jpg" media-type="image/jpeg"/>
+    <item id="pag61.html" href="Text/pag61.html" media-type="application/xhtml+xml"/>
+    <item id="foto-239.jpg" href="Images/foto-239.jpg" media-type="image/jpeg"/>
+    <item id="foto-236.jpg" href="Images/foto-236.jpg" media-type="image/jpeg"/>
+    <item id="pag62.html" href="Text/pag62.html" media-type="application/xhtml+xml"/>
+    <item id="foto-246.jpg" href="Images/foto-246.jpg" media-type="image/jpeg"/>
+    <item id="foto-247.jpg" href="Images/foto-247.jpg" media-type="image/jpeg"/>
+    <item id="foto-242.jpg" href="Images/foto-242.jpg" media-type="image/jpeg"/>
+    <item id="foto-245.jpg" href="Images/foto-245.jpg" media-type="image/jpeg"/>
+    <item id="foto-241.jpg" href="Images/foto-241.jpg" media-type="image/jpeg"/>
+    <item id="foto-240.jpg" href="Images/foto-240.jpg" media-type="image/jpeg"/>
+    <item id="pag63.html" href="Text/pag63.html" media-type="application/xhtml+xml"/>
+    <item id="pag63old.html" href="Text/pag63old.html" media-type="application/xhtml+xml"/>
+    <item id="foto-237.jpg" href="Images/foto-237.jpg" media-type="image/jpeg"/>
+    <item id="foto-238.jpg" href="Images/foto-238.jpg" media-type="image/jpeg"/>
+    <item id="foto-235.jpg" href="Images/foto-235.jpg" media-type="image/jpeg"/>
+    <item id="pag64.html" href="Text/pag64.html" media-type="application/xhtml+xml"/>
+    <item id="pag65.html" href="Text/pag65.html" media-type="application/xhtml+xml"/>
+    <item id="locandina-Cerri.jpg" href="Images/locandina-Cerri.jpg" media-type="image/jpeg"/>
+    <item id="pag66.html" href="Text/pag66.html" media-type="application/xhtml+xml"/>
+    <item id="foto-251.jpg" href="Images/foto-251.jpg" media-type="image/jpeg"/>
+    <item id="foto-256.jpg" href="Images/foto-256.jpg" media-type="image/jpeg"/>
+    <item id="foto-263.jpg" href="Images/foto-263.jpg" media-type="image/jpeg"/>
+    <item id="foto-251a.jpg" href="Images/foto-251a.jpg" media-type="image/jpeg"/>
+    <item id="pag67.html" href="Text/pag67.html" media-type="application/xhtml+xml"/>
+    <item id="foto-086.png" href="Images/foto-086.png" media-type="image/png"/>
+    <item id="pag68.html" href="Text/pag68.html" media-type="application/xhtml+xml"/>
+    <item id="foto-088.jpg" href="Images/foto-088.jpg" media-type="image/jpeg"/>
+    <item id="pag69.html" href="Text/pag69.html" media-type="application/xhtml+xml"/>
+    <item id="foto-097.png" href="Images/foto-097.png" media-type="image/png"/>
+    <item id="foto-098.png" href="Images/foto-098.png" media-type="image/png"/>
+    <item id="pag70.html" href="Text/pag70.html" media-type="application/xhtml+xml"/>
+    <item id="foto-129.png" href="Images/foto-129.png" media-type="image/png"/>
+    <item id="foto-130.jpg" href="Images/foto-130.jpg" media-type="image/jpeg"/>
+    <item id="pag71.html" href="Text/pag71.html" media-type="application/xhtml+xml"/>
+    <item id="foto-072.jpg" href="Images/foto-072.jpg" media-type="image/jpeg"/>
+    <item id="foto-073.jpg" href="Images/foto-073.jpg" media-type="image/jpeg"/>
+    <item id="foto-074.jpg" href="Images/foto-074.jpg" media-type="image/jpeg"/>
+    <item id="foto-075.jpg" href="Images/foto-075.jpg" media-type="image/jpeg"/>
+    <item id="pag72.html" href="Text/pag72.html" media-type="application/xhtml+xml"/>
+    <item id="foto-079.jpg" href="Images/foto-079.jpg" media-type="image/jpeg"/>
+    <item id="foto-099.jpg" href="Images/foto-099.jpg" media-type="image/jpeg"/>
+    <item id="foto-100.jpg" href="Images/foto-100.jpg" media-type="image/jpeg"/>
+    <item id="foto-149.jpg" href="Images/foto-149.jpg" media-type="image/jpeg"/>
+    <item id="foto-102.jpg" href="Images/foto-102.jpg" media-type="image/jpeg"/>
+    <item id="foto-081.jpg" href="Images/foto-081.jpg" media-type="image/jpeg"/>
+    <item id="logo-athena.jpg" href="Images/logo-athena.jpg" media-type="image/jpeg"/>
+    <item id="pag73.html" href="Text/pag73.html" media-type="application/xhtml+xml"/>
+    <item id="pag74.html" href="Text/pag74.html" media-type="application/xhtml+xml"/>
+    <item id="pag100.html" href="Text/pag100.html" media-type="application/xhtml+xml"/>
+    <item id="pag101.html" href="Text/pag101.html" media-type="application/xhtml+xml"/>
+    <item id="pag102.html" href="Text/pag102.html" media-type="application/xhtml+xml"/>
+    <item id="pag103.html" href="Text/pag103.html" media-type="application/xhtml+xml"/>
+    <item id="stile.css" href="Styles/stile.css" media-type="text/css"/>
+    <item id="stile2.css" href="Styles/stile2.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="index.html"/>
+    <itemref idref="indice.html"/>
+    <itemref idref="pag1.html"/>
+    <itemref idref="pag2.html"/>
+    <itemref idref="pag3.html"/>
+    <itemref idref="pag5.html"/>
+    <itemref idref="pag6.html"/>
+    <itemref idref="pag7.html"/>
+    <itemref idref="pag8.html"/>
+    <itemref idref="pag9.html"/>
+    <itemref idref="pag10.html"/>
+    <itemref idref="pag11.html"/>
+    <itemref idref="pag12.html"/>
+    <itemref idref="pag13.html"/>
+    <itemref idref="pag14.html"/>
+    <itemref idref="pag15.html"/>
+    <itemref idref="pag16.html"/>
+    <itemref idref="pag17.html"/>
+    <itemref idref="pag18.html"/>
+    <itemref idref="pag19.html"/>
+    <itemref idref="pag20.html"/>
+    <itemref idref="pag21.html"/>
+    <itemref idref="pag22.html"/>
+    <itemref idref="pag23.html"/>
+    <itemref idref="pag24.html"/>
+    <itemref idref="pag25.html"/>
+    <itemref idref="pag26.html"/>
+    <itemref idref="pag27.html"/>
+    <itemref idref="pag28.html"/>
+    <itemref idref="pag29.html"/>
+    <itemref idref="pag30.html"/>
+    <itemref idref="pag31.html"/>
+    <itemref idref="pag32.html"/>
+    <itemref idref="pag33.html"/>
+    <itemref idref="pag34.html"/>
+    <itemref idref="pag35.html"/>
+    <itemref idref="pag36.html"/>
+    <itemref idref="pag37.html"/>
+    <itemref idref="pag38.html"/>
+    <itemref idref="pag39.html"/>
+    <itemref idref="pag40.html"/>
+    <itemref idref="pag41.html"/>
+    <itemref idref="pag42.html"/>
+    <itemref idref="pag43.html"/>
+    <itemref idref="pag44.html"/>
+    <itemref idref="pag45.html"/>
+    <itemref idref="pag46.html"/>
+    <itemref idref="pag47.html"/>
+    <itemref idref="pag48.html"/>
+    <itemref idref="pag48a.html"/>
+    <itemref idref="pag49.html"/>
+    <itemref idref="pag50.html"/>
+    <itemref idref="pag51.html"/>
+    <itemref idref="pag52.html"/>
+    <itemref idref="pag53.html"/>
+    <itemref idref="pag54.html"/>
+    <itemref idref="pag55.html"/>
+    <itemref idref="pag56.html"/>
+    <itemref idref="pag57.html"/>
+    <itemref idref="pag58.html"/>
+    <itemref idref="pag59.html"/>
+    <itemref idref="pag60.html"/>
+    <itemref idref="pag61.html"/>
+    <itemref idref="pag62.html"/>
+    <itemref idref="pag63.html"/>
+    <itemref idref="pag63old.html"/>
+    <itemref idref="pag64.html"/>
+    <itemref idref="pag65.html"/>
+    <itemref idref="pag66.html"/>
+    <itemref idref="pag67.html"/>
+    <itemref idref="pag68.html"/>
+    <itemref idref="pag69.html"/>
+    <itemref idref="pag70.html"/>
+    <itemref idref="pag71.html"/>
+    <itemref idref="pag72.html"/>
+    <itemref idref="pag73.html"/>
+    <itemref idref="pag74.html"/>
+    <itemref idref="pag100.html"/>
+    <itemref idref="pag101.html"/>
+    <itemref idref="pag102.html"/>
+    <itemref idref="pag103.html"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

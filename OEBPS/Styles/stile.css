@@ -1,0 +1,1180 @@
+td {text-align: left;}
+@page {
+	size: A4;
+	@bottom-center {content: "Pag. " counter(page)}
+}
+@page:left {
+	margin-right: 3em;
+	margin-left: 2em;
+}
+@page:right {
+	margin-right: 2em;
+	margin-left: 3em;
+}
+
+.pageBreak {page-break-after: always;}
+
+
+#foto9 {height: 375px;}
+#foto10, #foto12 {height: 850px;}
+#foto17 {
+  margin-top: 20px;
+  width: 100%;
+  float: left;
+}
+#foto19 {height: 320px; width: 80%}
+#foto21 {width: 500px; }
+
+
+.box {
+  width: 170px;
+  float: left;
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+}
+body {
+  background: white;
+  margin: 0;
+}
+#corpo {
+  background: white;
+  text-align: justify;
+  page-break-after: always;
+}
+#copertina {
+  margin: 0;
+  background: white;
+  text-align: center;
+  height: 100%;
+}
+#arrow {
+  width: 72px;
+}
+.colonna {
+  width: 30%;
+  float: left;
+  padding-right: 15px;
+  padding-top: 0;
+}
+.colonna2 {
+  width: 45%;
+  float: left;
+  margin-left: 15px;
+}
+.due-colonne {
+  width: 45%;
+  float: left;
+  padding-right: 20px;
+}
+img[title=laProvincia] {
+  width: 500px;
+}
+img[title=infophoto] {
+  width: 400px;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+img[title=conservatorio] {
+  width: 400px;
+  float: right;
+  margin: 0 10px 10px 10px;
+}
+img[title=locandina-conservatorio] {
+  width: 40%;
+  float: right;
+  margin-right: 50px;
+}
+img[title=locandina-delfino] {
+  width: 50%;
+}
+img[title=targa] {
+  width: 48%;
+}
+img[title=Limbiate] {
+  width: 300px;
+  float: left;
+}
+img[title=Limbiate-1] {
+  width: 400px;
+}
+img[title=Limbiate-2] {
+  width: 700px;
+}
+img[title=foto26] {
+  width: 350px;
+  float: left;
+  margin-right: 10px;
+}
+img[title=foto27] {
+  position: relative;
+  margin-left: -10px;
+  margin-top: 0;
+}
+#cantu {
+  margin-left: 0;
+  margin-top: -150px;
+  width: 300px;
+}
+img[title=foto28] {
+  width: 350px;
+  margin-top: -70px;
+}
+#monza-piazza {
+  margin-top: 0;
+  text-align: right;
+}
+img[title=foto89] {
+  height: 390px;
+  margin-left: -20px;
+}
+img[title=foto94] {
+  width: 320px;
+  margin-bottom: 20px;
+}
+img[title=foto95] {
+  width: 400px;
+  margin-top: 10px;
+  margin-left: -10px;
+  text-align: left;
+}
+img[title=foto96] {
+  width: 350px;
+  float: right;
+  margin-right: -20px;
+  margin-left: 10px;
+  margin-top: -280px;
+}
+#bx-sx {
+  float: left;
+  width: 300px;
+  margin-top: -30px;
+}
+#luciapagani {
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+img[title=foto-099] {
+  width: 650px;
+}
+img[title=foto100] {
+  width: 320px;
+}
+img[title=foto101] {
+  width: 320px;
+}
+img[title=foto103] {
+  height: 400px;
+}
+img[title=foto104] {
+  width: 700px;
+  margin-top: 35px;
+}
+img[title=foto105] {
+  width: 350px;
+  margin-top: 20px;
+}
+img[title=foto106] {
+  width: 350px;
+  margin-top: -6px;
+}
+img[title=foto108] {
+  width: 700px;
+  margin-top: 0;
+}
+#label108 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto109] {
+  width: 350px;
+  margin-top: 0;
+}
+#label109 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto110] {
+  width: 350px;
+  margin-top: 0;
+}
+#label110 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto111] {
+  width: 350px;
+  margin-top: 0;
+}
+#label111 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto112] {
+  width: 350px;
+  margin-top: 0;
+}
+#label112 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto113] {
+  width: 350px;
+  margin-top: 0;
+}
+#label113 {
+  margin-left: 20px;
+  margin-top: -30px;
+}
+img[title=foto114] {
+  width: 350px;
+  margin-top: 0;
+}
+img[title=foto116] {
+  width: 700px;
+  margin-top: -40px;
+}
+#label116 {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.bianco-basso {
+  color: white;
+  margin-top: -30px;
+  margin-left: 15px;
+}
+img[title=foto119] {
+  width: 700px;
+  margin-top: -40px;
+}
+img[title=foto118] {
+  width: 700px;
+}
+img[title=foto117] {
+  width: 700px;
+}
+img[title=silvia] {
+  width: 230px;
+}
+img[title=foto129] {
+  width: 100%;
+}
+img[title=foto130] {
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+img[title=foto141] {
+  width: 800px;
+}
+img[title=foto138] {
+  height: 400px;
+}
+img[title=foto136] {
+  height: 400px;
+}
+img[title=foto142] {
+  width: 700px;
+}
+img[title=foto143] {
+  width: 300px;
+}
+img[title=foto144] {
+  width: 300px;
+}
+img[title=foto145] {
+  width: 700px;
+}
+img[title=foto146] {
+  width: 340px;
+}
+img[title=foto147] {
+  width: 680px;
+}
+img[title=foto148] {
+  width: 340px;
+}
+img[title=foto149] {
+  width: 338px;
+}
+/*img[title=foto150]  {width: 330px;}*/
+img[title=foto151] {
+  width: 338px;
+}
+img[title=foto153] {
+  width: 500px;
+  margin-top: -50px;
+}
+img[title=foto154] {
+  width: 400px;
+}
+img[title=foto155] {
+  width: 338px;
+}
+img[title=foto156] {
+  width: 300px;
+  float: right;
+}
+#martinelli {
+  width: 300px;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.foto_grande {
+  height: 700px;
+}
+.foto_grande_orizzontale {
+  width: 700px;
+}
+#foto206 {
+  width: 390px;
+}
+#label206 {
+  float: right;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+#foto207 {
+  width: 300px;
+  margin-top: 15px;
+}
+#foto208 {
+  width: 300px;
+  margin-top: 10px;
+}
+#foto209 {
+  width: 500px;
+  margin-top: -40px;
+}
+#foto210 {
+  width: 360px;
+}
+#label210 {
+  float: left;
+}
+#foto211 {
+  width: 318px;
+}
+#foto212, #foto213, #foto214 {
+  width: 650px;
+  margin-top: 5px;
+}
+#foto217 {
+  width: 300px;
+  float: left;
+  margin-right: 10px;
+}
+#foto216 {
+  width: 600px;
+  margin-top: -65px;
+}
+.ampio {
+  line-height: 1.5;
+}
+#foto218, #foto219, .intera {
+  margin-left: -33%;
+}
+#foto220, #foto221, #foto222, #foto223 {
+  height: 160px;
+}
+#foto224 {
+  width: 700px;
+}
+#foto225 {
+  width: 300px;
+}
+#foto226 {
+  width: 300px;
+}
+.destra {
+  float: right;
+}
+#foto231, #foto232, #foto233, #foto234 {
+  width: 300px;
+  margin-left: 30px;
+}
+#label231 {
+  margin-left: 120px;
+}
+#label234 {
+  margin-left: 150px;
+}
+.sinistro {
+  text-align: left;
+}
+.box-sinistro {
+  float: left;
+  width: 300px;
+  margin-right: 0;
+}
+.box-destro {
+  float: right;
+  width: 350px;
+  margin-top: 0;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+h2 {
+  text-align: center;
+}
+table, td, th {
+  padding: 5px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+th {
+  background: gold;
+  text-align: center;
+}
+td {
+  background: white;
+  font-size: large;
+}
+.codice {
+  background: #D9C;
+  padding: 10px 2px 15px 10px;
+  margin: 25px 0 25px 60px;
+  width: 600px;
+}
+.figure {
+  text-align: center;
+  margin: auto;
+  padding: 0;
+}
+.caption {
+  font-style: italic;
+}
+.testo {
+  text-align: left;
+}
+.bianco {
+  position: relative;
+  z-index: 2;
+  color: white;
+}
+
+.box-2 {
+  width: 300px;
+  float: left;
+  text-align: left;
+  padding-right: 10px;
+  font-size: large;
+}
+.box-3 {
+  position: relative;
+  width: 150px;
+  float: left;
+  z-index: 2;
+  color: white;
+  margin-left: 30px;
+  text-align: left;
+}
+.box-4 {
+  width: 400px;
+  text-align: right;
+}
+.dx {
+  float: right;
+  margin-right: 20px;
+}
+.box-dx-bianco {
+  width: 280px;
+  float: right;
+  color: white;
+  position: relative;
+  z-index: 4;
+  margin-right: 40px;
+  margin-top: 30px;
+}
+.box-dx {
+  margin-left: 320px;
+}
+.foto {
+  text-align: right;
+}
+.locandina {
+  width: 320px;
+}
+.pag {
+  color: blue;
+  margin-left: 350px;
+  margin-top: -30px;
+}
+.pag a:link {
+  text-decoration: none;
+}
+#freccia {
+  width: 72px;
+  margin: auto;
+}
+.freccia-dx {
+  width: 72px;
+  float: right;
+}
+.freccia-sx {
+  width: 72px;
+  margin-top: -5px;
+}
+.articoli {
+  float: left;
+  margin: 10px;
+  text-align: center;
+}
+.foto-articoli {
+  width: 250px;
+}
+img[title=cochi] {
+  width: 200px;
+}
+#indice {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+#foto000 {
+  width: 650px;
+}
+
+#foto13 {
+  width: 355px;
+  margin-top: 15px;
+}
+#tit13 {
+  margin-top: 150px;
+}
+#foto14 {
+  position: relative;
+  width: 400px;
+  z-index: 0;
+}
+#foto15 {
+  position: relative;
+  margin-top: 200px;
+  z-index: 1;
+}
+#foto16 {
+  height: 600px;
+}
+
+
+#foto21 {
+  position: relative;
+  z-index: 0;
+  margin-right: -350px;
+  width: 700px;
+  margin-left: 0;
+}
+#bove-limardi {
+  position: relative;
+  color: white;
+  z-index: 1;
+  margin-left: 20px;
+}
+#foto22 {
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+  height: 500px;
+  margin-left: 0;
+  float: left;
+}
+#foto23 {
+  position: relative;
+  z-index: 2;
+  margin-top: -290px;
+  height: 600px;
+  margin-left: -35px;
+}
+#foto24 {
+  position: relative;
+  z-index: 0;
+  margin-top: -30px;
+  width: 400px;
+}
+#foto25 {
+  position: relative;
+  z-index: 3;
+  margin-left: -60px;
+  margin-top: -100px;
+  width: 420px;
+}
+#monza-piazza {
+  float: right;
+  margin-top: -150px;
+  text-align: right;
+}
+#foto29 {
+  position: relative;
+  z-index: 1;
+}
+#foto30 {
+  position: relative;
+  z-index: 0;
+  margin-top: -150px;
+  margin-bottom: 20px;
+}
+#foto31 {
+  position: relative;
+  z-index: 2;
+  margin-top: -370px;
+  width: 400px;
+  float: left;
+  margin-right: 30px;
+}
+#monza {
+  margin-right: 30px;
+  margin-top: -190px;
+  text-align: left;
+  float: right;
+}
+#descr-monza {
+  width: 300px;
+  height: 200px;
+  margin-top: 10px;
+  float: left;
+}
+#foto32 {
+  width: 300px;
+  float: left;
+}
+#foto33 {
+  width: 380px;
+}
+#foto34 {
+  width: 380px;
+}
+#foto35 {
+  width: 300px;
+  float: left;
+}
+#foto36 {
+  width: 400px;
+  margin-bottom: 10px;
+}
+#foto37 {
+  position: relative;
+  z-index: 1;
+  width: 350px;
+  float: left;
+  margin-right: 10px;
+}
+#foto38 {
+  position: relative;
+  z-index: 0;
+  width: 400px;
+  margin-left: -60px;
+}
+#foto39 {
+  width: 450px;
+  margin-left: -150px;
+}
+#conservatorio {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+#gracias {
+  float: right;
+  width: 300px;
+  margin-top: -120px;
+}
+#foto40 {
+  width: 500px;
+  float: left;
+  margin-right: 15px;
+}
+#foto41 {
+  width: 310px;
+  margin-top: 0;
+  position: relative;
+  z-index: 0;
+}
+#foto42 {
+  height: 620px;
+  margin-right: -30px;
+  margin-top: -10px;
+}
+#deluca {
+  float: right;
+  text-align: right;
+  margin-top: -30px;
+}
+#testoDeLuca {
+  width: 280px;
+  font-size: 16px;
+  text-align: left;
+}
+#foto45 {
+  height: 450px;
+  margin-right: 20px;
+  float: left;
+  position: relative;
+  z-index: 2;
+}
+#foto46 {
+  width: 300px;
+  margin-left: -5px;
+  margin-top: -10px;
+  position: relative;
+  z-index: 0;
+}
+#foto47 {
+  margin-top: -250px;
+  position: relative;
+  z-index: 0;
+}
+#foto48 {
+  width: 380px;
+  position: relative;
+  z-index: 1;
+  margin-top: -65px;
+  float: right;
+}
+#reggiani-basta {
+  position: relative;
+  z-index: 5;
+  text-align: left;
+  color: black;
+}
+#schiattone-basta {
+  text-align: right;
+  margin-top: -30px;
+  color: red;
+  position: relative;
+  z-index: 3;
+  margin-right: 10px;
+}
+#foto49 {
+  width: 500px;
+  float: left;
+  margin-right: 20px;
+}
+#foto50 {
+  width: 450px;
+  position: relative;
+  z-index: 1;
+}
+#foto51 {
+  width: 500px;
+  margin-top: -50px;
+  position: relative;
+  z-index: 0;
+}
+#dil-pao {
+  float: right;
+  text-align: right;
+  margin-top: -100px;
+}
+
+#foto52 {
+  width: 400px;
+  float: left;
+  margin-right: 20px;
+  position: relative;
+  z-index: 1;
+}
+#foto53 {
+  position: relative;
+  z-index: 0;
+  margin-top: -300px;
+  float: right;
+  width: 450px;
+}
+#foto54 {
+  float: right;
+  margin-left: 15px;
+}
+#foto55 {
+  float: left;
+  height: 600px;
+  margin-right: 15px;
+}
+#foto56 {
+  margin-top: -10px;
+}
+#porazzi {
+  margin-top: 60px;
+}
+#foto57 {
+  margin-top: -60px;
+  margin-left: -40px;
+  width: 780px;
+  position: relative;
+  z-index: 0;
+}
+#foto58 {
+  width: 480px;
+  margin-left: -40px;
+  margin-top: -250px;
+  position: relative;
+  z-index: 2;
+}
+#foto59 {
+  position: relative;
+  z-index: 0;
+  width: 400px;
+  margin-right: -40px;
+  float: right;
+  margin-top: -420px;
+}
+#foto60 {
+  height: 300px;
+  margin-left: -40px;
+  position: relative;
+  z-index: 1;
+  margin-top: -50px;
+}
+#paoloBrioschi {
+  position: relative;
+  z-index: 1;
+  float: right;
+  margin-right: 250px;
+}
+#tomelleri {
+  float: right;
+  margin-top: -150px;
+}
+#cuffari {
+  margin-top: 0;
+}
+#marcobrioschi {
+  margin-top: -50px;
+  position: relative;
+  z-index: 3;
+  margin-left: 260px;
+}
+#foto61 {
+  position: relative;
+  z-index: 0;
+  margin-top: -50px;
+}
+#farina {
+  position: relative;
+  z-index: 3;
+  float: right;
+  margin-right: 50px;
+}
+#foto62 {
+  position: relative;
+  z-index: 0;
+  margin-top: -70px;
+  width: 400px;
+}
+#foto63 {
+  float: right;
+  width: 300px;
+  margin-top: -70px;
+  position: relative;
+  z-index: 1;
+}
+#foto64 {
+  margin-top: -70px;
+  position: relative;
+  z-index: 0;
+}
+#MBrioschi {
+  position: relative;
+  z-index: 2;
+  float: right;
+  margin-top: 0;
+  margin-right: -280px;
+}
+#orsini {
+  margin-left: 10px;
+}
+#foto65 {
+  margin-top: -50px;
+  margin-bottom: 0;
+}
+#foto66 {
+  height: 550px;
+  margin-top: -50px;
+}
+#foto67 {
+  height: 550px;
+  float: right;
+  margin-top: -550px;
+}
+#cuffari2 {
+  margin-left: 100px;
+}
+#pedrinelli2 {
+  margin-left: 10px;
+  margin-top: -10px;
+}
+#paoletti2 {
+  float: right;
+  margin-right: 20px;
+  margin-top: -40px;
+}
+#foto68 {
+  width: 700px;
+  margin-top: -50px;
+}
+#foto69 {
+  height: 250px;
+  margin-top: -60px;
+  position: relative;
+  z-index: 1;
+}
+#foto70 {
+  height: 690px;
+  float: right;
+  position: relative;
+  z-index: 0;
+  margin-top: -710px;
+}
+#foto71 {
+  width: 350px;
+  margin-top: -40px;
+}
+#usini {
+  margin-left: 10px;
+}
+#zilli {
+  margin-left: 10px;
+}
+#pastori {
+  margin-top: -699px;
+  position: relative;
+  z-index: 2;
+  margin-left: 500px;
+}
+.graziemaestro {
+  color: red;
+  position: relative;
+  z-index: 1;
+}
+#graziesilvia {
+  color: red;
+}
+#foto72 {
+  margin-top: -70px;
+  position: relative;
+  z-index: 0;
+}
+#foto73 {
+  width: 350px;
+  float: left;
+}
+#foto74 {
+  width: 350px;
+}
+#foto75 {
+  width: 350px;
+}
+#foto157 {
+  height: 400px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+#foto158 {
+  width: 400px;
+}
+#foto159 {
+  width: 700px;
+}
+#foto164 {
+  width: 700px;
+  z-index: 1;
+}
+#foto161 {
+  width: 300px;
+  float: left;
+  z-index: 2;
+  position: relative;
+}
+#foto165 {
+  margin-top: -160px;
+}
+#ramona {
+  width: 350px;
+  color: white;
+  margin-top: -450px;
+  padding: 10px;
+}
+#foto169 {
+  width: 350px;
+  margin-top: 0;
+}
+#foto170 {
+  width: 350px;
+}
+#foto173 {
+  width: 350px;
+  float: left;
+}
+#foto175 {
+  width: 350px;
+}
+#robMartinelli {
+  margin-top: -40px;
+}
+#sanvittore {
+  margin-left: 450px;
+  margin-top: 10px;
+}
+#barillari {
+  margin-left: 450px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+#foto178 {
+  width: 350px;
+}
+#foto180 {
+  width: 350px;
+  float: left;
+}
+#foto187 {
+  width: 300px;
+  float: right;
+}
+#foto192 {
+  width: 350px;
+  margin-bottom: 10px;
+}
+#foto193 {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+#foto194 {
+  width: 400px;
+}
+#foto195 {
+  width: 600px;
+}
+#foto196 {
+  width: 600px;
+}
+#foto197 {
+  width: 600px;
+}
+#foto199 {
+  width: 300px;
+}
+#foto200 {
+  width: 380px;
+  float: left;
+  margin-right: 10px;
+}
+.big {
+  width: 700px;
+}
+#dallara {
+  width: 300px;
+}
+#video {
+  text-align: center;
+  margin-top: 15px;
+}
+#batterista {
+  width: 500px;
+  margin: auto;
+}
+#usinipastori {
+  margin-top: -50px;
+}
+#fiati {
+  margin-left: 400px;
+  margin-top: 20px;
+}
+.locandina {
+  width: 500px;
+}
+#foto234 {
+  float: right;
+  margin-left: 20px;
+}
+#foto235 {
+  width: 100%;
+  margin-bottom: 10px;
+}
+#foto236 {
+  width: 100%;
+}
+#foto237 {
+  width: 300px;
+  float: left;
+  margin-left: 360px;
+  position: relative;
+  z-index: 1;
+}
+#foto238 {
+  width: 600px;
+  z-index: 2;
+  margin-top: -180px;
+}
+#foto239 {
+  width: 380px;
+  float: left;
+}
+#testo101 {
+  width: 290px;
+  float: right;
+}
+#foto240 {
+  width: 500px;
+  float: left;
+  z-index: 1;
+  margin-top: -80px;
+  position: relative;
+}
+#foto245 {
+  width: 500px;
+  float: left;
+  z-index: 1;
+  margin-bottom: 20px;
+}
+#foto241 {
+  width: 300px;
+  float: right;
+  margin-top: -100px;
+  z-index: 2;
+  position: relative;
+}
+#foto245 {
+  width: 500px;
+  float: left;
+  z-index: 1;
+}
+#testo245 {
+  width: 180px;
+  float: right;
+}
+#foto246 {
+  width: 350px;
+  float: left;
+}
+#testo246 {
+  margin-left: 0;
+  width: 320px;
+  float: right;
+}
+#foto247 {
+  width: 350px;
+}
+#foto242 {
+  width: 400px;
+  margin-left: -50px;
+}
+#testoDallara {
+  margin-top: 50px;
+}
+#foto251 {
+  width: 100%;
+  margin-bottom: 10px;
+}
+#foto263 {
+  width: 30%;
+  float: left;
+  margin-right: 23px;
+  margin-bottom: 5px;
+}
