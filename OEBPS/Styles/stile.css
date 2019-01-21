@@ -16,6 +16,8 @@ td {text-align: left;}
 
 .toc a         {text-decoration: none; color: black;}
 .toc a::after  {content: " Pag. " target-counter(attr(href),page)}
+.pagina        {width: 70px;}
+#indice        {page-break-before: right;}
 
 #foto9 {height: 375px;}
 #foto10, #foto12 {height: 850px;}
