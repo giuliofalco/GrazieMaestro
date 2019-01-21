@@ -1015,7 +1015,7 @@ img[title=cochi] {
   float: left;
 }
 #foto175 {
-  width: 350px;
+  width: 350px; margin-top: -5px;
 }
 #robMartinelli {
   margin-top: -40px;
@@ -1075,10 +1075,13 @@ img[title=cochi] {
 #dallara {
   width: 300px;
 }
+
 #video {
-  text-align: center;
-  margin-top: 15px;
+    text-align: center;
+    margin-top: 15px;
 }
+
+
 #batterista {
   width: 500px;
   margin: auto;
