@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4f5e5882-c999-489a-920c-7107c76ecfd2</dc:identifier>
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:4a1a1417-dc05-4256-a473-1f4eae653f61</dc:identifier>
     <dc:language>en</dc:language>
     <dc:title>[Titolo]</dc:title>
     <meta name="Sigil version" content="0.9.9" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-01-21</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-01-22</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-    <item id="foto-000.png" href="Images/foto-000.png" media-type="image/png"/>
     <item id="stile.css" href="Styles/stile.css" media-type="text/css"/>
+    <item id="foto-000.png" href="Images/foto-000.png" media-type="image/png"/>
     <item id="index.html" href="Text/index.html" media-type="application/xhtml+xml"/>
     <item id="indice.html" href="Text/indice.html" media-type="application/xhtml+xml"/>
     <item id="pag1.html" href="Text/pag1.html" media-type="application/xhtml+xml"/>
@@ -199,16 +199,14 @@
     <item id="foto-193.jpg" href="Images/foto-193.jpg" media-type="image/jpeg"/>
     <item id="foto-187.jpg" href="Images/foto-187.jpg" media-type="image/jpeg"/>
     <item id="foto-192.jpg" href="Images/foto-192.jpg" media-type="image/jpeg"/>
-    <item id="foto-190.jpg" href="Images/foto-190.jpg" media-type="image/jpeg"/>
     <item id="pag49.html" href="Text/pag49.html" media-type="application/xhtml+xml"/>
+    <item id="foto-190.jpg" href="Images/foto-190.jpg" media-type="image/jpeg"/>
     <item id="foto-197.jpg" href="Images/foto-197.jpg" media-type="image/jpeg"/>
     <item id="foto-194.jpg" href="Images/foto-194.jpg" media-type="image/jpeg"/>
     <item id="foto-198.jpg" href="Images/foto-198.jpg" media-type="image/jpeg"/>
     <item id="foto-186.jpg" href="Images/foto-186.jpg" media-type="image/jpeg"/>
     <item id="pag50.html" href="Text/pag50.html" media-type="application/xhtml+xml"/>
     <item id="foto-204.jpg" href="Images/foto-204.jpg" media-type="image/jpeg"/>
-    <item id="freccia-rossa-sx.png" href="Images/freccia-rossa-sx.png" media-type="image/png"/>
-    <item id="freccia-rossa-dx.png" href="Images/freccia-rossa-dx.png" media-type="image/png"/>
     <item id="pag51.html" href="Text/pag51.html" media-type="application/xhtml+xml"/>
     <item id="foto-205.jpg" href="Images/foto-205.jpg" media-type="image/jpeg"/>
     <item id="pag52.html" href="Text/pag52.html" media-type="application/xhtml+xml"/>
@@ -238,19 +236,19 @@
     <item id="foto-225.jpg" href="Images/foto-225.jpg" media-type="image/jpeg"/>
     <item id="foto-226.jpg" href="Images/foto-226.jpg" media-type="image/jpeg"/>
     <item id="foto-227.jpg" href="Images/foto-227.jpg" media-type="image/jpeg"/>
+    <item id="foto-231.jpg" href="Images/foto-231.jpg" media-type="image/jpeg"/>
+    <item id="foto-232.jpg" href="Images/foto-232.jpg" media-type="image/jpeg"/>
     <item id="pag59.html" href="Text/pag59.html" media-type="application/xhtml+xml"/>
     <item id="foto-229.jpg" href="Images/foto-229.jpg" media-type="image/jpeg"/>
     <item id="foto-230.jpg" href="Images/foto-230.jpg" media-type="image/jpeg"/>
-    <item id="foto-231.jpg" href="Images/foto-231.jpg" media-type="image/jpeg"/>
-    <item id="foto-232.jpg" href="Images/foto-232.jpg" media-type="image/jpeg"/>
     <item id="foto-233.jpg" href="Images/foto-233.jpg" media-type="image/jpeg"/>
-    <item id="foto-234.jpg" href="Images/foto-234.jpg" media-type="image/jpeg"/>
     <item id="pag60.html" href="Text/pag60.html" media-type="application/xhtml+xml"/>
     <item id="locandina-pime.jpg" href="Images/locandina-pime.jpg" media-type="image/jpeg"/>
     <item id="pag61.html" href="Text/pag61.html" media-type="application/xhtml+xml"/>
+    <item id="foto-234.jpg" href="Images/foto-234.jpg" media-type="image/jpeg"/>
+    <item id="pag62.html" href="Text/pag62.html" media-type="application/xhtml+xml"/>
     <item id="foto-239.jpg" href="Images/foto-239.jpg" media-type="image/jpeg"/>
     <item id="foto-236.jpg" href="Images/foto-236.jpg" media-type="image/jpeg"/>
-    <item id="pag62.html" href="Text/pag62.html" media-type="application/xhtml+xml"/>
     <item id="foto-246.jpg" href="Images/foto-246.jpg" media-type="image/jpeg"/>
     <item id="foto-247.jpg" href="Images/foto-247.jpg" media-type="image/jpeg"/>
     <item id="foto-242.jpg" href="Images/foto-242.jpg" media-type="image/jpeg"/>
@@ -258,13 +256,13 @@
     <item id="foto-241.jpg" href="Images/foto-241.jpg" media-type="image/jpeg"/>
     <item id="foto-240.jpg" href="Images/foto-240.jpg" media-type="image/jpeg"/>
     <item id="pag63.html" href="Text/pag63.html" media-type="application/xhtml+xml"/>
-    <item id="pag63old.html" href="Text/pag63old.html" media-type="application/xhtml+xml"/>
     <item id="foto-237.jpg" href="Images/foto-237.jpg" media-type="image/jpeg"/>
     <item id="foto-238.jpg" href="Images/foto-238.jpg" media-type="image/jpeg"/>
     <item id="foto-235.jpg" href="Images/foto-235.jpg" media-type="image/jpeg"/>
     <item id="pag64.html" href="Text/pag64.html" media-type="application/xhtml+xml"/>
-    <item id="pag65.html" href="Text/pag65.html" media-type="application/xhtml+xml"/>
     <item id="locandina-Cerri.jpg" href="Images/locandina-Cerri.jpg" media-type="image/jpeg"/>
+    <item id="freccia-rossa-sx.png" href="Images/freccia-rossa-sx.png" media-type="image/png"/>
+    <item id="freccia-rossa-dx.png" href="Images/freccia-rossa-dx.png" media-type="image/png"/>
     <item id="pag66.html" href="Text/pag66.html" media-type="application/xhtml+xml"/>
     <item id="foto-251.jpg" href="Images/foto-251.jpg" media-type="image/jpeg"/>
     <item id="foto-256.jpg" href="Images/foto-256.jpg" media-type="image/jpeg"/>
@@ -366,9 +364,7 @@
     <itemref idref="pag61.html"/>
     <itemref idref="pag62.html"/>
     <itemref idref="pag63.html"/>
-    <itemref idref="pag63old.html"/>
     <itemref idref="pag64.html"/>
-    <itemref idref="pag65.html"/>
     <itemref idref="pag66.html"/>
     <itemref idref="pag67.html"/>
     <itemref idref="pag68.html"/>
