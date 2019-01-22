@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:4a1a1417-dc05-4256-a473-1f4eae653f61</dc:identifier>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:0533bcba-afdf-466e-92fa-5b6af3c7d5fb</dc:identifier>
     <dc:language>en</dc:language>
     <dc:title>[Titolo]</dc:title>
-    <meta name="Sigil version" content="0.9.9" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-01-22</dc:date>
+    <meta content="0.9.9" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2019-01-22</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -261,43 +261,20 @@
     <item id="foto-235.jpg" href="Images/foto-235.jpg" media-type="image/jpeg"/>
     <item id="pag64.html" href="Text/pag64.html" media-type="application/xhtml+xml"/>
     <item id="locandina-Cerri.jpg" href="Images/locandina-Cerri.jpg" media-type="image/jpeg"/>
-    <item id="freccia-rossa-sx.png" href="Images/freccia-rossa-sx.png" media-type="image/png"/>
-    <item id="freccia-rossa-dx.png" href="Images/freccia-rossa-dx.png" media-type="image/png"/>
     <item id="pag66.html" href="Text/pag66.html" media-type="application/xhtml+xml"/>
     <item id="foto-251.jpg" href="Images/foto-251.jpg" media-type="image/jpeg"/>
     <item id="foto-256.jpg" href="Images/foto-256.jpg" media-type="image/jpeg"/>
     <item id="foto-263.jpg" href="Images/foto-263.jpg" media-type="image/jpeg"/>
     <item id="foto-251a.jpg" href="Images/foto-251a.jpg" media-type="image/jpeg"/>
     <item id="pag67.html" href="Text/pag67.html" media-type="application/xhtml+xml"/>
-    <item id="foto-086.png" href="Images/foto-086.png" media-type="image/png"/>
     <item id="pag68.html" href="Text/pag68.html" media-type="application/xhtml+xml"/>
-    <item id="foto-088.jpg" href="Images/foto-088.jpg" media-type="image/jpeg"/>
     <item id="pag69.html" href="Text/pag69.html" media-type="application/xhtml+xml"/>
-    <item id="foto-097.png" href="Images/foto-097.png" media-type="image/png"/>
-    <item id="stile2.css" href="Styles/stile2.css" media-type="text/css"/>
-    <item id="foto-098.png" href="Images/foto-098.png" media-type="image/png"/>
     <item id="pag70.html" href="Text/pag70.html" media-type="application/xhtml+xml"/>
-    <item id="foto-129.png" href="Images/foto-129.png" media-type="image/png"/>
-    <item id="foto-130.jpg" href="Images/foto-130.jpg" media-type="image/jpeg"/>
     <item id="pag71.html" href="Text/pag71.html" media-type="application/xhtml+xml"/>
-    <item id="foto-072.jpg" href="Images/foto-072.jpg" media-type="image/jpeg"/>
-    <item id="foto-073.jpg" href="Images/foto-073.jpg" media-type="image/jpeg"/>
-    <item id="foto-074.jpg" href="Images/foto-074.jpg" media-type="image/jpeg"/>
-    <item id="foto-075.jpg" href="Images/foto-075.jpg" media-type="image/jpeg"/>
     <item id="pag72.html" href="Text/pag72.html" media-type="application/xhtml+xml"/>
-    <item id="foto-079.jpg" href="Images/foto-079.jpg" media-type="image/jpeg"/>
-    <item id="foto-099.jpg" href="Images/foto-099.jpg" media-type="image/jpeg"/>
-    <item id="foto-100.jpg" href="Images/foto-100.jpg" media-type="image/jpeg"/>
-    <item id="foto-149.jpg" href="Images/foto-149.jpg" media-type="image/jpeg"/>
-    <item id="foto-102.jpg" href="Images/foto-102.jpg" media-type="image/jpeg"/>
-    <item id="foto-081.jpg" href="Images/foto-081.jpg" media-type="image/jpeg"/>
-    <item id="logo-athena.jpg" href="Images/logo-athena.jpg" media-type="image/jpeg"/>
     <item id="pag73.html" href="Text/pag73.html" media-type="application/xhtml+xml"/>
     <item id="pag74.html" href="Text/pag74.html" media-type="application/xhtml+xml"/>
-    <item id="pag100.html" href="Text/pag100.html" media-type="application/xhtml+xml"/>
-    <item id="pag101.html" href="Text/pag101.html" media-type="application/xhtml+xml"/>
-    <item id="pag102.html" href="Text/pag102.html" media-type="application/xhtml+xml"/>
-    <item id="pag103.html" href="Text/pag103.html" media-type="application/xhtml+xml"/>
+    <item id="pag75.html" href="Text/pag75.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="index.html"/>
@@ -374,10 +351,7 @@
     <itemref idref="pag72.html"/>
     <itemref idref="pag73.html"/>
     <itemref idref="pag74.html"/>
-    <itemref idref="pag100.html"/>
-    <itemref idref="pag101.html"/>
-    <itemref idref="pag102.html"/>
-    <itemref idref="pag103.html"/>
+    <itemref idref="pag75.html"/>
   </spine>
   <guide>
   </guide>
