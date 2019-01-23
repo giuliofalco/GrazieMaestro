@@ -8,21 +8,96 @@
   <meta http-equiv="Content-Style-Type" content="text/css"/>
   <meta name="generator" content="pandoc"/>
   <title></title>
+  <style>
+     @page {
+          @top-center    {content: "Rassegna Stampa";}
+     }
+     a::after   {content: " : "attr(href)}
+     a {text-decoration: none;}
+     .colonne {column-count: 2;  text-align: justify;  column-fill: auto;}
+     #locandina-conservatorio   { width: 280px; margin-left: 15px;
+                                  -epubx-flow-into: immagine;
+                                }
+     #prenotazioni  {-epubx-flow-into: res; }
+     #intestazione  {-epubx-flow-into: testata;}
+
+     @-epubx-page-master {
+
+       
+         @-epubx-partition {  
+        	-epubx-flow-from: body;  
+     
+        	column-count: 3;
+        	left: 1em;  
+        	right: 1em;  
+        	top: 11em;  
+        	bottom: 5em;
+        	
+        	padding: 1.6em;
+       		-epubx-snap-height: 1.2em;
+        }
+		@-epubx-partition {
+	     	-epubx-flow-from: immagine;
+     		-epubx-required: true; 
+     		top:   20em;
+     		left:  14em;
+     		width: 20em;
+    		height: 25em;
+    		margin: 0em;
+ 		 }
+
+         @-epubx-partition {
+               -epubx-flow-from: testata;
+               top: 3em;
+               height: 10em;
+               left: 13em;
+         }
+
+         @-epubx-partition {
+             bottom: 2em;
+             height: 2em;
+             left: 2em;
+             width: 10em;
+             content: "Pag. " counter(page);
+         }
+       
+         @-epubx-partition {
+            -epubx-flow-from: res;
+             bottom: 1em;
+             left: 10em;
+             height: 10em;
+             right: 1em;
+             border: 1px solid black;
+             padding: 1em;
+         }
+         
+     }
+  </style>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="../Styles/stile.css" type="text/css"/>
 </head>
 <body>
-<div id="corpo">
 
 <div class="figure">
-<img src="img/foto-088.jpg" title="locandina-conservatorio"/>
+<img src="../Images/foto-088.jpg" id=locandina-conservatorio>
 
 </div>
-<div class="due-colonne">
+
+<div id=intestazione>
 <h1 id="grazie-maestro">Grazie Maestro !!</h1>
 <h2 id="tributo-al-genio-di-enzo-jannacci">Tributo al genio di Enzo Jannacci</h2>
 <p>09/11/2015 - di <strong>mescalina.it</strong></p>
 <p>Grazie Maestro!!</p>
+</div>
+
+<div id=prenotazioni>
+Prenotazioni al: <b>340 9472554</b> oppure scrivere a <b>quellicheenzojannacci@gmail.com</b>
+<p>Con la partecipazione straordinaria di: <br/>Paolo Tomelleri, Enrico Intra, Nando de Luca, Davide Zilli, Claudio Fava, Claudio Sanfilippo, Folco Orselli, oltre ai comici Osvaldo Ardenghi, Duo Bove e Limardi.</p>
+<p>E naturalmente la “Maestro House Band”: Marco Brioschi, Sergio Farina, Paolo Brioschi, Piero Orsini, Flaviano Cuffari, Carlo Pastori.</p>
+<p>E alle voci: Andrea Achilli, Stefano Usini, Elena Paoletti e Micaela Negri.</p>
+<p>GZ</p>
+</div>
+
 <p>Ma Cos’è?</p>
 <p>Come cos’è?!</p>
 <p>Ma è un tributo a Enzo Jannacci ! anzi no, ora te lo spiego.</p>
@@ -31,8 +106,7 @@
 <p>Grazie maestro !! non è solo un tributo, è piuttosto un “progetto” in itinere per la miglior messa a punto possibile di uno spettacolo che celebri adeguatamente l’amore dell’Associazione Culturale “Quelli che … Enzo Jannacci ce l’hanno nel cuore” per il Maestro, che come sapete è stato un genio artistico, un Maître à penser del secondo ‘900, uno che ha detto più cose lui con le sue canzoni, con i suoi spettacoli teatrali e cabarettistici e con la sua generosa professione di medico, di quanto non abbiano fatto altri più “trombonati” e cosiddetti artisti.</p>
 <p>Finalmente, lo spettacolo, dopo essere stato rappresentato sette volte tra le province di Como, Monza e Milano, in teatri e piazze affollate, divertite e commosse, ora trova la sua più appropriata collocazione nella sala Grande del Conservatorio Giuseppe Verdi di Milano, là dove solo i grandi musicisti hanno dignità di accesso per esibirsi o per essere ricordare la loro arte.</p>
 <p>E’ grazie all’amore nei confronti di Jannacci, e alla competenza sulla vita e le opere di Enzo, che l’instancabile Silvia Reggiani, sapientemente coadiuvata dal marito Giulio Falco, ha messo in scena questo spettacolo-kermesse in cui succede di tutto ma dove è soprattutto la figura e la grandezza del Maestro ad uscirne ulteriormente ingigantita, ciò grazie anche all’interpretazione delle sue meravigliose canzoni da parte della “sua” band e degli ospiti assolutamente grandiosi,</p>
-</div>
-<div class="due-colonne">
+
 <p>spesso si tratta di amici che per anni hanno collaborato e condiviso pezzi di vita con lui, oppure semplici musicisti che solo per l`ammirazione nei suoi confronti saranno lì ad omaggiarlo.</p>
 <p>Vengo anch’io ….. si tu si.</p>
 <p>Stagatent testina! tel chi el programma:</p>
@@ -41,19 +115,8 @@
 <p>Via Conservatorio, 12</p>
 <p>Offerta benefica a partire da euro 10,00</p>
 <p>il ricavato verrà devoluto a “Scarp de tenis” rivista che da voce alle persone in difficoltà, legata alla Caritas.</p>
-<p>Prenotazioni al:</p>
-<p>340 9472554 oppure scrivere a quellicheenzojannacci@gmail.com</p>
-<p>Con la partecipazione straordinaria di: Paolo Tomelleri, Enrico Intra, Nando de Luca, Davide Zilli, Claudio Fava, Claudio Sanfilippo, Folco Orselli, oltre ai comici Osvaldo Ardenghi, Duo Bove e Limardi.</p>
-<p>E naturalmente la “Maestro House Band”: Marco Brioschi, Sergio Farina, Paolo Brioschi, Piero Orsini, Flaviano Cuffari, Carlo Pastori.</p>
-<p>E alle voci: Andrea Achilli, Stefano Usini, Elena Paoletti e Micaela Negri.</p>
-<p>GZ</p>
-</div>
-<br clear="all"/>
-<hr/>
-<a href="pag69.html"><img src="img/freccia-rossa-sx.png" class="freccia-sx"/></a> <a href="pag72.html"><img src="img/freccia-rossa-dx.png" class="freccia-dx"/></a>
-<div class="pag">
-<a href="indice.html">Pag. 71</a>
-</div>
-</div>
+
+
+
 </body>
 </html>
