@@ -9,11 +9,14 @@
   <meta name="generator" content="pandoc"/>
   <title></title>
   <style>
-     @page {
-          @top-center    {content: "Rassegna Stampa";}
-     }
      a::after   {content: " : "attr(href)}
      a {text-decoration: none;}
+     #grazie-maestro {
+         margin-top: 1em; 
+         margin-bottom: 0.5em; 
+         color: blue; 
+         text-align: center;
+     }
      .colonne {column-count: 2;  text-align: justify;  column-fill: auto;}
      #locandina-conservatorio   { width: 280px; margin-left: 15px;
                                   -epubx-flow-into: immagine;
@@ -23,7 +26,13 @@
 
      @-epubx-page-master {
 
-       
+         @-epubx-partition {
+           top: 3em;
+           height: 2em;
+           left: 20em;
+           content: "Rassegna Stampa";
+           
+         }
          @-epubx-partition {  
         	-epubx-flow-from: body;  
      
@@ -114,7 +123,6 @@ Prenotazioni al: <b>340 9472554</b> oppure scrivere a <b>quellicheenzojannacci@g
 <p>Conservatorio Giuseppe Verdi di Milano</p>
 <p>Via Conservatorio, 12</p>
 <p>Offerta benefica a partire da euro 10,00</p>
-<p>il ricavato verrà devoluto a “Scarp de tenis” rivista che da voce alle persone in difficoltà, legata alla Caritas.</p>
 
 
 
