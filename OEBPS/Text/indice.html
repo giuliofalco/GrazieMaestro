@@ -8,125 +8,67 @@
   <meta http-equiv="Content-Style-Type" content="text/css"/>
   <meta name="generator" content="pandoc"/>
   <title></title>
+  <style>
+      	  nav ol  {list-style: none; margin-left: 60px; margin-right: 80px;}
+          nav a   {
+                   text-decoration: none; color: black; 
+                   display: inline-flex;
+                   width: 100%;
+                   align-items: baseline;
+                  }
+          nav a::before {
+                   border-bottom: dotted 1px black;
+				   content: " ";
+                   order: 1;
+                   flex: auto;
+                   margin-left: 10px;
+	               margin-right: 10px;
+          }
+          nav a::after {
+                   content: target-counter(attr(href),page);
+                   align-self: flex-end;
+	               flex: none;
+                   order: 2; 
+          }
+          nav li {line-height: 1.5em; 
+                  display: flex-inline;}
+          h1     {page-break-before: right;}
+  </style>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="../Styles/stile.css" type="text/css"/>
 </head>
 <body>
-<div id="indice">
-<table class="toc">
-<thead>
-<tr class="header">
-<th align="left">Indice</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">Il progetto</td>
-<td class="pagina"><a href="pag1.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">La band</td>
-<td class="pagina"><a href="pag5.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Le voci</td>
-<td class="pagina"><a href="pag6.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">I comici</td>
-<td class="pagina"><a href="pag11.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Le edizioni di Grazie Maestro</td>
-<td></td>
-</tr>
-<tr class="even">
-<td align="left">Novate Milanese, Cantù, Monza</td>
-<td class="pagina"><a href="pag14.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Como</td>
-<td class="pagina"><a href="pag15.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Cantù, Teatro San Teodoro, Monza Piazza Roma</td>
-<td class="pagina"><a href="pag16.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Conservatorio di Milano</td>
-<td class="pagina"><a href="pag17.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Teatro PIME - Milano</td>
-<td class="pagina"><a href="pag20.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Teatro Delfino - Milano</td>
-<td class="pagina"><a href="pag23.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Teatro Comunale di Limbiate</td>
-<td class="pagina"><a href="pag28.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Teatro di Tradate</td>
-<td class="pagina"><a href="pag29.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Villa Ada Scalini - Carbonate(CO)</td>
-<td class="pagina"><a href="pag30.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Legnano (VA)</td>
-<td class="pagina"><a href="pag35.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Nova Milanese (MB)</td>
-<td class="pagina"><a href="pag37.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Arcore (MB)</td>
-<td class="pagina"><a href="pag39.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Conservatorio di Milano</td>
-<td class="pagina"><a href="pag41.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Teatro Manzoni di Monza</td>
-<td class="pagina"><a href="pag46.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Teatro Carcano di Milano</td>
-<td class="pagina"><a href="pag48.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Teatro Asteria di Milano</td>
-<td class="pagina"><a href="pag51.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Teatro del Popolo di Gallarate</td>
-<td class="pagina"><a href="pag55.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Teatro PIME di Milano</td>
-<td class="pagina"><a href="pag61.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Dicono di Noi</td>
-<td class="pagina"><a href="pag61.html"></a></td>
-</tr>
-<tr class="odd">
-<td align="left">Saluti</td>
-<td class="pagina"><a href="pag60.html"></a></td>
-</tr>
-<tr class="even">
-<td align="left">Ringraziamenti</td>
-<td class="pagina"><a href="pag63.html"></a></td>
-</tr>
-</tbody>
-</table>
+<h1 align="center">Indice</h1>
+<nav>
+  <ol>
+    <li><a href="pag1.html">Il progetto</a></a></li>
+    <li><a href="pag5.html">La band</a></a></li>
+	<li><a href="pag6.html">Le voci</a></li>
+	<li><a href="pag11.html">I comici</a></li>
+	<li>Le edizioni di Grazie Maestro</a></li>
+	<li><a href="pag14.html">Novate Milanese, Cantù, Monza</a></li>
+	<li><a href="pag15.html">Como</a></li>
+	<li><a href="pag16.html">Cantù, Teatro San Teodoro, Monza Piazza Roma</a></li>
+	<li><a href="pag17.html">Conservatorio di Milano</a></li>
+	<li><a href="pag20.html">Teatro PIME - Milano</a></li>
+	<li><a href="pag23.html">Teatro Delfino - Milano</a></li>
+	<li><a href="pag28.html"> Teatro Comunale di Limbiate </a></a></li>
+	<li><a href="pag29.html"> Teatro di Tradate </a></a></li>
+	<li><a href="pag30.html"> Villa Ada Scalini - Carbonate(CO) </a></a></li>
+	<li><a href="pag35.html"> Legnano (VA) </a></a></li>
+	<li><a href="pag37.html"> Nova Milanese (MB) </a></a></li>
+	<li><a href="pag39.html"> Arcore (MB) </a></a></li>
+	<li><a href="pag41.html"> Conservatorio di Milano </a></a></li>
+	<li><a href="pag46.html"> Teatro Manzoni di Monza </a></a></li>
+	<li><a href="pag48.html"> Teatro Carcano di Milano </a></a></li>
+	<li><a href="pag51.html"> Teatro Asteria di Milano </a></a></li>
+	<li><a href="pag55.html"> Teatro del Popolo di Gallarate </a></a></li>
+	<li><a href="pag61.html"> Teatro PIME di Milano </a></a></li>
+	<li><a href="pag61.html"> Dicono di Noi </a></a></li>
+	<li><a href="pag60.html"> Saluti </a></a></li>
+	<li><a href="pag63.html"> Ringraziamenti </a></a></li>
+  </ol>
+<nav>
 
 
 
