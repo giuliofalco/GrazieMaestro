@@ -56,6 +56,13 @@
       padding: 1em;
       border: 1px solid black;  
     }
+    @-epubx-partition {
+             bottom: 2em;
+             height: 2em;
+             left: 23em;
+             width: 10em;
+             content: "Pag. " counter(page);
+         }
   }
 
   @-epubx-page-master entrevistas {
@@ -87,7 +94,15 @@
       padding: 1em;  
       border: 1px solid black;     
     }
+    @-epubx-partition fondopagina {
+             bottom: 2em;
+             height: 2em;
+             left: 23em;
+             width: 10em;
+             content: "Pag. " counter(page);
+    }
   }
+
   @-epubx-page-master Ardenghi {
     @-epubx-partition osvaldo {  
       -epubx-flow-from: oa;  
@@ -98,6 +113,13 @@
       right:  5em; 
       padding: 1em;  
       border: 1px solid black;     
+    }
+    @-epubx-partition fondopagina {
+             bottom: 2em;
+             height: 2em;
+             left: 23em;
+             width: 10em;
+             content: "Pag. " counter(page);
     }
     @-epubx-partition body {
       -epubx-flow-from: body;
