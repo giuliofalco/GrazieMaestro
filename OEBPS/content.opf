@@ -267,6 +267,7 @@
     <item id="foto-263.jpg" href="Images/foto-263.jpg" media-type="image/jpeg"/>
     <item id="foto-251a.jpg" href="Images/foto-251a.jpg" media-type="image/jpeg"/>
     <item id="pag67.html" href="Text/pag67.html" media-type="application/xhtml+xml"/>
+    <item id="pag67a.html" href="Text/pag67a.html" media-type="application/xhtml+xml"/>
     <item id="pag68.html" href="Text/pag68.html" media-type="application/xhtml+xml"/>
     <item id="pag69.html" href="Text/pag69.html" media-type="application/xhtml+xml"/>
     <item id="pag70.html" href="Text/pag70.html" media-type="application/xhtml+xml"/>
@@ -344,6 +345,7 @@
     <itemref idref="pag64.html"/>
     <itemref idref="pag66.html"/>
     <itemref idref="pag67.html"/>
+    <itemref idref="pag67a.html"/>
     <itemref idref="pag68.html"/>
     <itemref idref="pag69.html"/>
     <itemref idref="pag70.html"/>
