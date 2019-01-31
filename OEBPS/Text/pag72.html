@@ -26,7 +26,13 @@
      h2               {margin-top: 0px;}
 
   @-epubx-page-master testata { 
-   
+    @-epubx-partition intestazione {
+      top: 2em;
+      left: 25em;
+      height: 1em;
+      content: "Rassegna stampa";
+     
+    }
     @-epubx-partition body {  
       -epubx-flow-from: testata;  
       -epubx-required: True;
@@ -104,6 +110,14 @@
   }
 
   @-epubx-page-master Ardenghi {
+    @-epubx-partition intestazione {
+      top: 2em;
+      left: 25em;
+      height: 1em;
+      content: "Rassegna stampa";
+     
+    }
+
     @-epubx-partition osvaldo {  
       -epubx-flow-from: oa;  
       -epubx-required: True;
