@@ -268,6 +268,22 @@
     <item id="foto-251a.jpg" href="Images/foto-251a.jpg" media-type="image/jpeg"/>
     <item id="pag67.html" href="Text/pag67.html" media-type="application/xhtml+xml"/>
     <item id="pag67a.html" href="Text/pag67a.html" media-type="application/xhtml+xml"/>
+    <item id="foto-275.jpg" href="Images/foto-275.jpg" media-type="image/jpeg"/>
+    <item id="pag67b.html" href="Text/pag67b.html" media-type="application/xhtml+xml"/>
+    <item id="foto-276.jpg" href="Images/foto-276.jpg" media-type="image/jpeg"/>
+    <item id="pag67c.html" href="Text/pag67c.html" media-type="application/xhtml+xml"/>
+    <item id="foto-277.jpg" href="Images/foto-277.jpg" media-type="image/jpeg"/>
+    <item id="foto-278.jpg" href="Images/foto-278.jpg" media-type="image/jpeg"/>
+    <item id="pag67d.html" href="Text/pag67d.html" media-type="application/xhtml+xml"/>
+    <item id="foto-279.jpg" href="Images/foto-279.jpg" media-type="image/jpeg"/>
+    <item id="pag67e.html" href="Text/pag67e.html" media-type="application/xhtml+xml"/>
+    <item id="foto-280.jpg" href="Images/foto-280.jpg" media-type="image/jpeg"/>
+    <item id="foto-281.jpg" href="Images/foto-281.jpg" media-type="image/jpeg"/>
+    <item id="pag67f.html" href="Text/pag67f.html" media-type="application/xhtml+xml"/>
+    <item id="foto-282.jpg" href="Images/foto-282.jpg" media-type="image/jpeg"/>
+    <item id="pag67g.html" href="Text/pag67g.html" media-type="application/xhtml+xml"/>
+    <item id="foto-283.jpg" href="Images/foto-283.jpg" media-type="image/jpeg"/>
+    <item id="foto-284.jpg" href="Images/foto-284.jpg" media-type="image/jpeg"/>
     <item id="pag68.html" href="Text/pag68.html" media-type="application/xhtml+xml"/>
     <item id="pag69.html" href="Text/pag69.html" media-type="application/xhtml+xml"/>
     <item id="pag70.html" href="Text/pag70.html" media-type="application/xhtml+xml"/>
@@ -346,6 +362,12 @@
     <itemref idref="pag66.html"/>
     <itemref idref="pag67.html"/>
     <itemref idref="pag67a.html"/>
+    <itemref idref="pag67b.html"/>
+    <itemref idref="pag67c.html"/>
+    <itemref idref="pag67d.html"/>
+    <itemref idref="pag67e.html"/>
+    <itemref idref="pag67f.html"/>
+    <itemref idref="pag67g.html"/>
     <itemref idref="pag68.html"/>
     <itemref idref="pag69.html"/>
     <itemref idref="pag70.html"/>
